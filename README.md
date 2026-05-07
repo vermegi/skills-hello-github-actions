@@ -1,3 +1,4 @@
+![CI](https://github.com/vermegi/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg
 
 <div align="center">
 
