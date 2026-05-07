@@ -1,4 +1,4 @@
-[![CI](https://github.com/vermegi/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg)]([https://github.com/myorg/myproject/actions/workflows/ci.yml](https://github.com/vermegi/skills-hello-github-actions/actions/workflows/welcome.yml)
+[![CI](https://github.com/vermegi/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg)](https://github.com/vermegi/skills-hello-github-actions/actions/workflows/welcome.yml)
 
 <div align="center">
 
